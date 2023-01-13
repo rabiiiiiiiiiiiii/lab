@@ -10,6 +10,7 @@ package lab12;
 			}
 			catch(ArrayIndexOutOfBoundsException e){
 				System.out.println ("Array Index is Out Of Bounds");
+				System.out.println ("Array Index is Out Of Bounds");
 			}
 		}
 }
